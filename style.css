@@ -8,14 +8,14 @@ input {
     width: 100%;
     padding: 10px;
     box-sizing: border-box;
-    border: 1px solid #5f9341;
+    border: 1px solid #4E9F3D;
     margin-bottom: 5px;
 }
 
 button {
-    background: #5f9341;
+    background: #4E9F3D;
     padding: 10px 20px;
-    border: 1px solid #5f9341;
+    border: 1px solid #4E9F3D;
     color: white;
     font-weight: bold;
 }
@@ -29,8 +29,8 @@ button:active{
 }
 #delete-btn{
     background: white;
-    color: #5f9341;
-    border: 1px solid #5f9341;
+    color: #4E9F3D;
+    border: 1px solid #4E9F3D;
 }
 ul {
     margin-top: 20px;
@@ -41,5 +41,5 @@ li{
     margin-top: 5px;
 }
 ul > li > a{
-    color: #5f9341;
+    color: #4E9F3D;
 }
